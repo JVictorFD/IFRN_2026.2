@@ -35,6 +35,12 @@ Abra a pasta:
 cd /workspaces/IFRN_2026.2/Interfaces_Ricas/venv_Interfaces_Ricas/typescript-example
 ```
 
+Localize o ambiente virtual e execute:
+
+```bash
+source /workspaces/IFRN_2026.2/Interfaces_Ricas/venv_Interfaces_Ricas/bin/activate
+```
+
 ## Como instalar as dependências
 
 No terminal, execute:
