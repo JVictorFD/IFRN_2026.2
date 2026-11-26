@@ -31,3 +31,6 @@ This repository contains the source code to create unit tests in [typescript](ht
 ## 📄 License
 
 This project is licensed under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0.html).
+
+cd Interfaces_Ricas/Projeto_1
+pnpm test run
